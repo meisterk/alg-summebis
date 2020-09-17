@@ -6,7 +6,10 @@ import unittest
 
 
 def summe_bis(number):
-    pass
+    summe = 0
+    for i in range(1, number + 1):
+        summe = summe + i
+    return summe
 
 
 # Testcases
