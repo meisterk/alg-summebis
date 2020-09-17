@@ -2,6 +2,7 @@
 TDD excample: add all numbers from 1 to n
 
 function: summe_bis(n)
+
 return: 1 + 2 + 3 + ... + n
 
 Testcases
